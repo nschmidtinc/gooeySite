@@ -1,0 +1,17 @@
+/*
+
+Blast.js template
+Pippin Barr
+
+Some basic styling
+
+*/
+
+/* We have this here just to point out that EVERYTHING
+we run through .blast() ends up with this class. */
+
+
+header {
+  font-size: 130px;
+  padding-left: 40px;
+}

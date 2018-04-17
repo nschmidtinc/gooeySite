@@ -1,0 +1,37 @@
+
+/*
+DART 450, Winter 2018
+Title of project
+Author
+Some description of the CSS styling
+*/
+
+body {
+  background-color: black;
+
+}
+div, button {
+  margin-top: 20px;
+}
+
+#intro {
+  font-family: helvetica;
+  color: antiquewhite;
+  font-size: 30px;
+  line-height: 1.25;
+}
+
+button {
+
+  width: 100px;
+  height: 100px;
+  font-family: helvetica;
+  background-color: red;
+  font-size: 20px;
+}
+
+.messageText {
+font-family: helvetica;
+color: antiquewhite;
+font-size: 60px;
+}

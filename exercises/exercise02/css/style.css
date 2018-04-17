@@ -1,0 +1,40 @@
+/*
+
+DART 450, Winter 2018
+Title of project
+Author
+
+Some description of the CSS styling
+
+*/
+
+
+body {
+  background-color: #616A6B;
+}
+
+div {
+  font-family: jaf-domus-titling-web, sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 40px;
+  color: white;
+  text-align: center;
+  padding-top: 200px;
+}
+
+.faller {
+  position: relative;
+}
+
+h2 {
+  font-family: jaf-domus-titling-web, sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+ 	text-align: left;
+	padding: 20px;
+	position: absolute;
+	bottom: 20px;
+
+}

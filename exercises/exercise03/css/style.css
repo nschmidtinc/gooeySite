@@ -1,0 +1,31 @@
+/*
+
+DART 450, Winter 2018
+Title of project
+Author
+
+Some description of the CSS styling
+
+*/
+
+body {
+  background-color: #191715
+}
+
+div {
+  font-size: 50px;
+  font-family: Andale Mono;
+  color: #e1d3c1;
+  width: 80%;
+  height: 10%;
+  margin: 20px;
+
+}
+
+button {
+  background-color: #e1d3c1;
+  width: 70px;
+  height: 50px;
+  font-size: 24px;
+  margin: 5px 20px 0px 20px;
+}
